@@ -1,0 +1,65 @@
+export const plants = [
+  {
+    id: 1,
+    name: "Monstera Deliciosa",
+    category: "Tropical",
+    price: 29.99,
+    image: "/images/monstera.png",
+  },
+  {
+    id: 2,
+    name: "Snake Plant",
+    category: "Low Maintenance",
+    price: 24.99,
+    image: "/images/snake.png",
+  },
+  {
+    id: 3,
+    name: "Peace Lily",
+    category: "Air Purifying",
+    price: 19.99,
+    image: "/images/peace.png",
+  },
+  {
+    id: 4,
+    name: "Spider Plant",
+    category: "Low Maintenance",
+    price: 15.99,
+    image: "/images/spider.png",
+  },
+  {
+    id: 5,
+    name: "Bird of Paradise",
+    category: "Tropical",
+    price: 49.99,
+    image: "/images/bird.png",
+  },
+  {
+    id: 6,
+    name: "Boston Fern",
+    category: "Air Purifying",
+    price: 22.99,
+    image: "/images/boston.png",
+  },
+  {
+    id: 7,
+    name: "Aloe Vera",
+    category: "Low Maintenance",
+    price: 18.99,
+    image: "/images/aloe.png",
+  },
+  {
+    id: 8,
+    name: "Fiddle Leaf Fig",
+    category: "Air Purifying",
+    price: 44.99,
+    image: "/images/fiddle.png",
+  },
+  {
+    id: 9,
+    name: "Philodendron Pink Princess",
+    category: "Tropical",
+    price: 52.99,
+    image: "/images/princess.png",
+  }
+];
