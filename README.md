@@ -1,8 +1,9 @@
-# React + Vite
+Final Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Using Vite React javascript and vanilla css only.
 
-Currently, two official plugins are available:
+For your final project, you will create the front end of a "Paradise Nursery" shopping application. The application interface will allow you to browse a variety of houseplants and add them to a shopping cart. The shopping cart feature lets you see all your items and their total cost. Your shopping cart should also allow you to adjust the number of items in the cart before checkout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Completing the practice project will help you with the final project. We designed it so that many of the components, code, and skills for that project can be transferred to this peer-reviewed project with some updates.
+
+Your application should have three pages: a landing page, a product listing page, and a shopping cart page. See the lab for details on the specific functionality requirements on each page. The product walkthrough video also demonstrates how your completed project should look and behave.
